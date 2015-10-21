@@ -1,0 +1,15 @@
+{
+  "name": "barback",
+  "version": "0.0.0",
+  "description": "Command line utility for downloading barcode images",
+  "main": "barback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Coffey",
+  "license": "MIT",
+  "dependencies": {
+    "bwip-js": "^0.14.2",
+    "mkdirp": "^0.5.1"
+  }
+}
